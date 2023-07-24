@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumBDDNet", "SeleniumBDDNet\SeleniumBDDNet.csproj", "{761F5B70-8939-4603-9429-6890224569FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761F5B70-8939-4603-9429-6890224569FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761F5B70-8939-4603-9429-6890224569FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761F5B70-8939-4603-9429-6890224569FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761F5B70-8939-4603-9429-6890224569FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC588B4E-7C16-41BC-B28A-FE5C4CC2331E}
+	EndGlobalSection
+EndGlobal
