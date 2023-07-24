@@ -9,10 +9,7 @@ using SeleniumBDDNet.Drivers;
 
 namespace SeleniumBDDNet.PageObjects
 {
-
-   
-
-    class LoginPage : BasePage
+   class LoginPage : BasePage
     {
         WebDriver webDriver;
 
