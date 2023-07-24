@@ -17,8 +17,6 @@ namespace SeleniumBDDNet.PageObjects
         WebDriver webDriver;
 
         public LoginPage() => webDriver = getWebDriver();
-
-
         public void openApplicaiton()
         {
             webDriver.Navigate().GoToUrl("https://google.com");
